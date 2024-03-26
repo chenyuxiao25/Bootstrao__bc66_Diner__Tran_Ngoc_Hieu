@@ -1,0 +1,35 @@
+ <!-- <header class="main-header">
+            <div class="container">
+                <div class="w3_hny_header row">
+                    <div class=" col-8 w3_hnyits_logo">
+                        <h1>
+                            <a class="logo-brand">Dinner</a>
+                        </h1>
+                    </div>
+                    <div class=" col-4 w3menu-right-content">
+                        <div class="search-bar d-flex">
+                            <form class="search position-relative" action>
+                                <input class="search__input" type="search"
+                                    placeholder="Search here..">
+                                <i class="fa fa-search search__icon"></i>
+                            </form>
+
+                        </div>
+
+                        <button class="btn" id="switchButton"
+                            title="Click to switch theme">
+                            <i class="far fa-moon"></i>
+                            <i class="far fa-sun"></i>
+                        </button>
+
+                        <div class="mobile-nav-button">
+                            <button id="trigger-overlay" type="button">
+                                <i class="fa fa-bars" aria-hidden="true"></i>
+                            </button>
+
+                        </div>
+
+                    </div>
+                </div>
+                <!-- place navbar here -->
+            </header> -->
