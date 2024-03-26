@@ -972,32 +972,32 @@ li {
 
 
 
-.w3l-copyright a.cd-top {
-    width: 25px;
-    height: 25px;
-    text-align: center;
-    border-radius: 50%;
-    background: #ac8b6b;
-
-    color: white;
+.backTOTop {
     position: fixed;
-
-
-    z-index: 999;
-    bottom: 32px;
-    right: 20px;
-    /* visibility: visible;
-    opacity: 1; */
+    right: 50px;
+    bottom: 50px;
+    visibility: hidden;
+    opacity: 0;
 }
 
-/* .cd-top--is-visible {
+.backTOTop {
+    width: 40px;
+    color: #d3e0e1;
+    border: 2px solid #ff6600;
+    width: 40px;
+    height: 40px;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 36px;
+    border-radius: 50%;
+    background: #ff6600;
+}
+
+.cd-top--is-visible {
     visibility: visible;
     opacity: 1;
 }
 
-.cd-top--fade-out {
-    opacity: .5;
-} */
 
 @keyframes ripple {
     0% {
